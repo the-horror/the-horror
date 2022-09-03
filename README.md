@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-horror
-- 👀 I’m interested in blockchain, DeFi and quantative finance.
+- 👀 I’m interested in blockchain, DeFi and quantitative finance.
 - 🌱 I’m currently learning Solidity and blockchain app dev.
 - 💞️ I’m looking to collaborate on DeFi projects.
 - 📫 How to reach me is through here.
